@@ -1,6 +1,6 @@
 cask "codexpill" do
   version "0.1.0-beta.1"
-  sha256 "5530ad07f9db000de6545c8103fdd6af35db8526ffc285de201980629b42c294"
+  sha256 "194e006b036b32ff478ef1d9626585d3132546eb434dda7ce049c39001f88cd0"
 
   url "https://github.com/raphhgg/CodexPill/releases/download/v#{version}/CodexPill-v#{version}.zip"
   name "CodexPill"
