@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew tap for Raphael Grau apps.
+Homebrew tap for raphh's apps.
 
 ## CodexPill
 
