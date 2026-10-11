@@ -2,18 +2,21 @@
 
 Homebrew tap for raphh's apps.
 
-## CodexPill
+## Refill
 
-Install the signed CodexPill beta:
+Refill was called CodexPill. Install the signed Refill beta:
 
 ```bash
 brew tap raphhgg/tap
-brew install --cask codexpill
+brew install --cask refill
 ```
 
 Update later with:
 
 ```bash
 brew update
-brew upgrade --cask codexpill
+brew upgrade --cask refill
 ```
+
+If you installed `codexpill`, `brew upgrade` moves you to `refill`. Refill
+starts fresh: add your accounts again.
